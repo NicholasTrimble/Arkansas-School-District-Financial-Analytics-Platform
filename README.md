@@ -2,7 +2,6 @@
 
 ![Dashboard Screenshot](./Schoolinfo.png)
 
-
 # Arkansas Public School Financial Systems Analytics
 
 ## Independent Multi-District System Engineering & Resource Allocation Analysis
